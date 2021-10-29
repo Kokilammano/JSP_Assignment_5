@@ -1,3 +1,3 @@
-<h1>CRUD APPLICATION FOR PRODUCT</h1><br><br>
-<a href="ProductsController?action=listProducts">List Products</a>
-<a href="ProductsController?action=insert">Add Products</a>
+<h1>CRUD APPLICATION FOR EMPLOYEE</h1><br><br>
+<a href="EmployeeController?action=listEmployees">List Employees</a>
+<a href="EmployeeController?action=insert">Add Employees</a>
